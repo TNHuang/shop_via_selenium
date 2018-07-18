@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "allow user to shop online via selenium api",
   "main": "index.js",
+  "repository" :{ 
+    "type" : "git",
+    "url" : "https://github.com/TNHuang/shop_via_selenium.git"
+  },
   "scripts": {
     "app": "node index.js"
   },
